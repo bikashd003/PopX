@@ -1,0 +1,42 @@
+.login-container{
+    background-color: #F7F8F9;
+    height: 100vh;
+    font-family: "Rubik";
+}
+.login-container h1{
+   width: 70%;
+   color: #1D2226;
+   font-size: 28px;
+   font-weight: 500;
+   padding: 4vw 4vw 0 4vw;
+}
+.login-container p{
+   width: 80%;
+   color: #1D2226;
+   font-size: 18px;
+   font-weight: 400;
+   padding: 4vw;
+}
+.input-details{
+    display: flex;
+    flex-direction: column;
+    padding: 0 4vw 4vw 4vw;
+}
+.input-details {
+    display: flex;
+    flex-direction: column;
+    padding: 0 4vw 4vw 4vw;
+}
+.login-btn {
+    font-family: "Rubik", sans-serif;
+    font: medium;
+    background-color: #6c25ff4b;
+    color: #ffffff;
+    outline: none;
+    border: 0;
+    padding: 2vw;
+    border-radius: 6px;
+    height: 46px;
+    font-size: 16px;
+    font-weight: 500;
+  }
